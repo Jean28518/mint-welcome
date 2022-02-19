@@ -7,6 +7,7 @@ It is just a proposal and gives inspiration, how a future version mint welcome c
 and which functionality it could have in the future.
 
 ## Feel free to try out [here](https://www.server-jean.de/mint-welcome-proposal/)
+*(The linux build is much more performant and faster)*
 
 ![Splash Screen](screenshots/splashScreen.png)
 
