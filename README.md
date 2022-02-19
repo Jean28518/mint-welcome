@@ -1,2 +1,2 @@
 # mint-welcome
-Unofficial welcome screen for linux mint. Proposal for the linux mint project.
+Unofficial welcome screen for linux mint. Proposal for the linux mint project. Built with flutter.
