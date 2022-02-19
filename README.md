@@ -51,3 +51,6 @@ flutter config --enable-linux-desktop
 ```
 - Run `flutter build linux` inside this directory.
 - The executable can be found at `build/linux/x64/release/bundle/`.
+
+## How to build for web (only for presentation)
+- `flutter build web --base-href='/mint-welcome-proposal/'` (When you reach the webapp under `localhost/mint-welcome-proposal` for example.
