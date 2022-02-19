@@ -1,0 +1,36 @@
+- Willkommen bei Linux Mint!
+    -> Starten Sie mit den ersten, empfohlenen Schritten
+    -> Danke, ich möchte direkt loslegen, und das eventuell später machen
+- Bildschirmfarbe und Leistenanordnung wählen
+- Auswahl zwischen Office Suite:
+    - Libre Office
+    - Only Office
+    - WPS Office
+- Auswahl zwischen Browsern:
+    - Firefox
+    - Chrome
+    - Chromium
+- Weitere Software direkt optional installieren
+    - Jitsi
+    - Spotify
+    - Discord
+    - Zoom
+    - Teams
+- Auswahl der restlichen Einstellungen
+    - Mit empfohlenen Einstellungen fortfahren
+        - Hier eventuell abwählenzwischen
+            - (mint-meta-codecs)
+            - Automatischen Systemschnappschüssen
+            - Automatische Treiberwahl und Installation
+            - Automatische Einrichtung der Aktualisierungsverwaltung
+    - Alles manuell machen
+        - Dann nur Screen mit Buttons Zeigen, um alles zu starten.
+- Mit Online-Konten verbinden
+    - Google
+    - Nextcloud
+    - Microsoft
+- Das wars!
+    - Weitere Infos
+    - Hilfe
+    - Mitwirken
+
